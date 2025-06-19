@@ -64,7 +64,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Streamlit Community Cloud Link: 
+Streamlit Community Cloud Link: https://edutech-dashboard-rpbwxnmg7dr54hmpsaf3ms.streamlit.app/
 
 ## Business Dashboard
 Based on Dashboard and EDA result, here are some interesting informations we can take,

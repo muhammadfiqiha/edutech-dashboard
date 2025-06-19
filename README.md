@@ -1,4 +1,4 @@
-# Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Edutech
+# Final Project: Solve Edutech Company Problems
 
 ## Business Understanding
 Jaya Jaya Institute is one of the educational institutions that has been established since 2000. Until now, it has produced many graduates with excellent reputations. However, there are also many students who do not complete their education, aka dropouts. 
@@ -55,7 +55,7 @@ source streamlit-app\Scripts\activate
 3. Install library and dependency
 
 ```
-pip install requirements_app.txt
+pip install -r requirements.txt
 ```
 
 ## Run Machine Learning App

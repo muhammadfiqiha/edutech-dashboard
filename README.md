@@ -86,7 +86,7 @@ Dashboard Link: https://lookerstudio.google.com/reporting/3a013f84-ea2d-4388-bc9
 The potential for students to drop out at the Jaya Jaya Institute can be influenced by several factors, starting from academic factors before and after enrolling; demographic factors such as older age, non-scholarship, and non-international students; social and economic factors such as debtor, non-displaced, etc. A machine learning system has also been created and deployed on the streamlit cloud using the Gradient Boosting algorithm to detect a student's risk of dropping out based on the criteria mentioned with the accuracy of 68%.
 
 
-### Rekomendasi Action Items
+### Action Items Recommendations
 Based on the result, here are the recommended actions for Jaya Jaya Institute:
 1. Identify students with low admission and qualification grade from the start and monitor them in their first year.
 2. Create special program for older and students with certain marital status, such as flexible schedule, sharing and discussion session, etc.
